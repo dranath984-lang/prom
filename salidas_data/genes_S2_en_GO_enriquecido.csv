@@ -1,0 +1,17 @@
+name,id,cluster,Description,p.adjust
+GmEXPB2,Phvul.008G144100,cluster_1,extracellular region,0.00382293405410105
+GmbHLHm1,Phvul.006G198400,cluster_1,protein dimerization activity,0.00581637322606212
+LjMATE1,Phvul.005G021900,cluster_1,xenobiotic transmembrane transport,0.00581637322606212
+LjMATE1,Phvul.005G021900,cluster_1,GO:0015238,0.00581637322606212
+LjMATE1,Phvul.005G021900,cluster_1,antiporter activity,0.00581637322606212
+MtZIP6,Phvul.002G099700,cluster_1,metal ion transport,0.00973879710070407
+LjCKX3,Phvul.009G231700,cluster_1,"oxidoreductase activity, acting on CH-OH group of donors",0.02649740662345283
+LjCKX3,Phvul.009G231700,cluster_1,cytokinin metabolic process,0.03596414126599553
+LjCKX3,Phvul.009G231700,cluster_1,cytokinin dehydrogenase activity,0.03596414126599553
+MtZIP6,Phvul.002G099700,cluster_1,zinc ion transmembrane transporter activity,0.03596414126599553
+MtZIP6,Phvul.002G099700,cluster_1,zinc ion transmembrane transport,0.03596414126599553
+LjCKX3,Phvul.009G231700,cluster_1,flavin adenine dinucleotide binding,0.03613691888462175
+LjSUS1/3,Phvul.009G223800,cluster_5,sucrose metabolic process,0.04330668779937406
+LjSUS1/3,Phvul.009G223800,cluster_5,sucrose synthase activity,0.04330668779937406
+MtNIP,Phvul.002G242200,cluster_1,transporter activity,0.04647655770829496
+MtNRAMP,Phvul.009G127900,cluster_1,transporter activity,0.04647655770829496
